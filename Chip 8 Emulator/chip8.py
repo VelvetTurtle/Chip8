@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 31 20:10:56 2020
 
-@author: Beth Fox
+@author: velve
 The CPU for my Chip 8 emulator. 
 """
 
